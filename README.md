@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anderj14
-- 👀 I’m interested in learn java, spring boot, hibernate, react, angular,
-- 🌱 I’m currently learning sprint boot, hibernate, react
+- 👀 I’m interested in work with java, spring boot, hibernate, C#, .NET, EntityFramework, ASP.NET, react, angular,
 - 💞️ I’m looking to collaborate on also proyects
 - 📫 How to reach me andersonfrias001@gmail.com
 
