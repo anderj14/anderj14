@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @anderj14
-- 👀 I’m interested in work with java, spring boot, hibernate, C#, .NET, EntityFramework, ASP.NET, react, angular,
-- 💞️ I’m looking to collaborate on also proyects
-- 📫 How to reach me andersonfrias001@gmail.com
+- 👋 Hi, I'm @anderj14.
+- 👀 I'm interested in working with Java, Spring Boot, Hibernate, C#, .NET, Entity Framework, ASP.NET, React, and Angular.
+- 💼 I'm currently open to collaborating on interesting projects.
+- 📧 You can reach me at [andersonfrias001@gmail.com](mailto:andersonfrias001@gmail.com).
 
-<!---
-anderj14/anderj14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Work Experience
+
+### Software Developer (Freelance)
+
+- Specializing in creating software projects for sale.
+
+## Current Status
+
+- Freelance Software Developer specializing in creating projects for sale.
+
+## Technologies and Tools
+
+- Java, Spring Boot, Hibernate
+- C#, .NET, Entity Framework
+- ASP.NET, React, Angular
+- Databases: MySQL, PostgreSQL, MongoDB
