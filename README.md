@@ -15,7 +15,7 @@
 
 ## Technologies and Tools
 
-- Java, Spring Boot, Hibernate
-- C#, .NET, Entity Framework
+- Java, Spring Boot, Hibernate, JavaFx, Swing
+- C#, .NET, Entity Framework, WindowsForm
 - ASP.NET, React, Angular
-- Databases: MySQL, PostgreSQL, MongoDB
+- Databases: MySQL, PostgreSQL, MongoDB, SQLServer
