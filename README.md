@@ -15,7 +15,7 @@ Freelance Software Developer specializing in creating projects for sale.
 
 ## Technologies and Tools
 - C#, .NET, Entity Framework, WindowsForm.
-- ASP.NET, React, Angular.
+- React, Angular.
 - Databases: MySQL, PostgreSQL, SQLServer.
 
 ## Want to Collaborate?
