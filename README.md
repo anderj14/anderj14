@@ -14,10 +14,9 @@ Specializing in creating software projects for sale.
 Freelance Software Developer specializing in creating projects for sale.
 
 ## Technologies and Tools
-- Java, Spring Boot, Hibernate, JavaFx, Swing.
 - C#, .NET, Entity Framework, WindowsForm.
 - ASP.NET, React, Angular.
-- Databases: MySQL, PostgreSQL, MongoDB, SQLServer.
+- Databases: MySQL, PostgreSQL, SQLServer.
 
 ## Want to Collaborate?
 I'm open to collaborating on interesting projects! If you have an exciting idea or need help with software development, feel free to get in touch!
