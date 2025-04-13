@@ -14,11 +14,11 @@ Specializing in creating software projects for sale.
 Freelance Software Developer specializing in creating projects for sale.
 
 ## Technologies and Tools
-- C#, .NET, Entity Framework, WindowsForm, WPF.
-- React, Angular.
-- Databases: MySQL, PostgreSQL, SQLServer.
+- C#, Java, .NET, Entity Framework, WindowsForm, SpringBoot.
+- React, Angular, Razor.
+- Databases: MySQL, PostgreSQL, SQLServer, MongoDB.
 - Containerization: Docker.
-- Cloud: Azure.
+- Cloud: Azure, Cloudinary.
 
 ## Want to Collaborate?
 I'm open to collaborating on interesting projects! If you have an exciting idea or need help with software development, feel free to get in touch!
