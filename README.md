@@ -15,10 +15,10 @@ Freelance Software Developer specializing in creating projects for sale.
 
 ## Technologies and Tools
 - C#, Java, .NET, Entity Framework, WindowsForm, SpringBoot.
-- React, Angular, Razor.
+- React, Angular, Razor, Astro.
 - Databases: MySQL, PostgreSQL, SQLServer, MongoDB.
 - Containerization: Docker.
-- Cloud: Azure, Cloudinary.
+- Cloud: Azure, Cloudinary, Netlify.
 
 ## Want to Collaborate?
 I'm open to collaborating on interesting projects! If you have an exciting idea or need help with software development, feel free to get in touch!
