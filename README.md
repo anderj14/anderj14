@@ -35,7 +35,6 @@ Currently completing my Computer Science degree while working with clients from 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ## 📈 GitHub Stats
-![Andder's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderj14&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderj14&layout=compact&theme=radical)
 
 ## 🌟 What Sets Me Apart
